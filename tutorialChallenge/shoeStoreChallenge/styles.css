@@ -1,1 +1,50 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+article {
+  border: 3px solid black;
+}
 
+h2, h3, .shipping, button {
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 15px;
+}
+
+.price {
+  font-size: 20px;
+}
+
+h2 {
+  background-color: #e2e2e2;
+  text-align: center;
+}
+
+.shipping {
+  font-size: 12px;
+  font-weight: bold;
+  color:#afafaf;
+}
+
+li {
+  list-style-type: square;
+}
+
+a:link, a:hover, button:hover {
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+button {
+  background-color: black;
+  color: white;
+}
+
+button:hover {
+  background-color: white;
+  }
